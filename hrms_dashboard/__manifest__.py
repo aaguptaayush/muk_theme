@@ -45,9 +45,9 @@
         'web.assets_backend': [
 
             'hrms_dashboard/static/src/css/hrms_dashboard.css',
-            'hrms_dashboard/static/src/css/lib/nv.d3.css',
+            'hrms_dashboard/static/src/css/nv.d3.css',
             'hrms_dashboard/static/src/js/hrms_dashboard.js',
-            'hrms_dashboard/static/src/js/lib/d3.min.js',
+            'hrms_dashboard/static/src/js/d3.min.js',
 
         ],
         'web.assets_qweb': [
